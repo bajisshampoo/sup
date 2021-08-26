@@ -12,7 +12,7 @@ from scrollLabel import ScrollLabel
 from ruffier import test
  
 Window.clearcolor = (.53, .53, .53, 1)
-#Window.clearcolor = (1, .92, .51, 1)
+Window.clearcolor = (1, .92, .51, 1)
 btn_color = (0, 0.9, 0.64, 1)
  
 age = 7
